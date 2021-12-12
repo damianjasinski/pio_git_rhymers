@@ -2,7 +2,7 @@ package edu.kis.vh.nursery;
 
 // alt + ← oraz alt + → zmienia pomiędzy aktualnie otwartymi plikami w naszym edytorze
 //źle sformatowane wiersze to: 5, ,14,15
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
 	int totalRejected = 0;
 
